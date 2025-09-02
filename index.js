@@ -1,1 +1,1 @@
-console.log("hi from collaborator")
+console.log("hi from collaborator");
